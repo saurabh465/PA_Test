@@ -35,5 +35,13 @@ and website performance
 
    ## Use Power Bi for Better Understanding and Easy to Find Insights
 
-   ![image](https://github.com/saurabh465/PA_Test/assets/68279102/83a1bc81-95ce-4a8c-84e5-32824490175a)
+   ![image](https://github.com/saurabh465/PA_Test/assets/68279102/8812c149-1f87-443d-87ef-7947a10874b4)
 
+
+
+## Insights :
+1) Cart Page Is most Viewed Page and click through is High 
+2) Product_19 and Product_20 is top Product Of Mast Page View
+3) website Performave High In May 2023
+4) Working On Product Page Bcz user Spent Less time On Product 
+5) use offers to Top Users On May month And working  On Cart Page and Category Page Increase Our Sales and make Profit 
